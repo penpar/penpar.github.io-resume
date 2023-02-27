@@ -2,15 +2,57 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: IBK기업은행 펀드시스템 고도화
+  role: Developer
+  duration: 2022.04 &mdash 2023.02;
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: 외화표시펀드 상품 추가에 대한 대응개발 
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# ----------------
+- project: 
+  role: Developer
+  duration: 2021.08 &mdash 2022.02;
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: 신규 요건 및 이슈에 대한 대응개발;
+
+
+# ----------------
+- project: 삼성전자 종합기술원 연구용S/W 개발
+  role: Developer
+  duration: 2021.04 &mdash 2021.07;
+  # url: "#"
+  description: 신규 요건 및 이슈에 대한 대응개발;
+
+
+# ----------------
+- project: SC제일은행 기업뱅킹시스템 구축
+  role: Developer
+  duration: 2020.09 &mdash 2021.03;
+  # url: "#"
+  description: 신규 요건 및 이슈에 대한 대응개발;
+
+
+# ----------------
+- project: SC제일은행 EAI시스템 개발
+  role: Developer
+  duration: 2020.05 &mdash 2020.08;
+  # url: "#"
+  description: 신규 요건 및 이슈에 대한 대응개발;
+
+
+# ----------------
+- project: LG전자 B2Bi시스템 운영
+  role: Developer
+  duration: 2020.01 &mdash 2020.04;
+  # url: "#"
+  description: 신규 요건 및 이슈에 대한 대응개발;
+
+
+
+# ----------------
+- project: LG전자 협력사정보연계 시스템 구축
+  role: Developer=
+  duration: 2018.10 &mdash 2019.12;
+  # url: "#"
+  description: 신규 요건 및 이슈에 대한 대응개발;
+
